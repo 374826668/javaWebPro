@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bs_common-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/bs_common-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

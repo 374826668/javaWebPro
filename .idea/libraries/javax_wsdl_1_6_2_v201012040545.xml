@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.wsdl_1.6.2.v201012040545">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.wsdl_1.6.2.v201012040545.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

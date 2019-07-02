@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bs_permission-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/bs_permission-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
